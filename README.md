@@ -1,19 +1,28 @@
 
 <a href="https://www.instagram.com/0.mmd.0/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="mohammad sarhadi Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://discord.gg/#">
+  <img align="left" alt="mohammad sarhadi Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/thisismmd_">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="mohammad sarhadi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/#/">
+  <img align="left" alt="mohammad sarhadi LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 ![](https://www.mmdw.ir/)
 
 <br />
 
-Hi, I'm Mohammad Sarhadi(https://www.mmdw.ir/), a passionate self-taught developer. My passion is in penetration and security
+Hi, I'm [Mohammad Sarhadi](https://www.mmdw.ir/), a passionate self-taught developer. My passion is in penetration and security
 I am also an open source enthusiast and maintainer. I learned a lot from the open source community and I like how collaboration and knowledge sharing happened through open source.
 
-  <img align="right" alt="GIF" src="" width="500" height="320" />
+
+
+
+  <img align="right" alt="GIF" src="https://github.com/mmdsarhadi/mmdsarhadi/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:mmdsarhadi@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
@@ -43,10 +52,13 @@ Groovy       11 mins         ▒░░░░░░░░░░░░░░░░
 SCSS         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 ```
 
+<!--END_SECTION:waka-->
+
+
 
 📈 my github stats
 
-<p align="center"> <img src="https://github.com/mmdsarhadi" alt="mmdsarhadi" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
 
