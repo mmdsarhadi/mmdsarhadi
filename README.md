@@ -72,10 +72,5 @@ SCSS         7 mins          ▒░░░░░░░░░░░░░░░░
   <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
 
 
- <br />
-<p align="center">
-  <h1 align="center"> Stats </h1>
-<p h2 align="center">
-
 
 
