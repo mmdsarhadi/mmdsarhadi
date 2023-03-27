@@ -22,7 +22,7 @@ I am also an open source enthusiast and maintainer. I learned a lot from the ope
 
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="500" height="180" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="430" height="180" />
   
 - 💼 any freelance work? do reach, [email](mailto:mmdsarhadi@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
