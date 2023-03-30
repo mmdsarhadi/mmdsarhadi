@@ -17,7 +17,8 @@
 <br />
 
 Hi, I'm [Mohammad Sarhadi](https://www.mmdw.ir/), a passionate self-taught developer. My passion is in penetration and security
-I am also an open source enthusiast and maintainer. I learned a lot from the open source community and I like how collaboration and knowledge sharing happened through open source.
+I am also an open source enthusiast and maintainer. I learned a lot from the open source community and I like how collaboration and knowledge sharing happened through open source.  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+
 
 
 
@@ -25,7 +26,7 @@ I am also an open source enthusiast and maintainer. I learned a lot from the ope
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="330" height="150" />
   
 - 💼 any freelance work? do reach, [email](mailto:mmdsarhadi@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💬 ask me about anything, i am happy to, [help](mailto:mmdsarhadi@gmail.com) :)
 
 **languages and tools:**  
 
