@@ -67,13 +67,15 @@ c++          7 mins          ▒░░░░░░░░░░░░░░░░
 - #### Partially familiar with (Elementary level):
   <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
 
+
+
 Feel free contacting me via the following links:
 
 
         <a href="https://www.linkedin.com/in/mohammad-hosein-ashoori-863a31175/">
             <img src="https://img.icons8.com/color/50/000000/linkedin.png" width=40/>
         </a>
-<        <a href="https://twitter.com/">
+         <a href="https://twitter.com/">
             <img src="https://img.icons8.com/color/50/000000/twitter.png" width=32/> 
          <a href="https://cenaashoori.github.io/">
             <img src="https://img.icons8.com/fluency/50/000000/resume-website.png" width=40/>
@@ -81,6 +83,4 @@ Feel free contacting me via the following links:
         <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc8lkrtn9wff4frctr04sxva" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc8lkrtn9wff4frctr04sxva" height="40" width="40" /></a>
         <a href="https://kaggle.com/ciniur" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ciniur" height="40" width="40" /></a>
 </p>
-
-
 
