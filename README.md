@@ -82,5 +82,5 @@ Feel free contacting me via the following links:
             <img src="https://img.icons8.com/fluency/50/000000/resume-website.png" width=40/>
         </a>
         <a href="https://www.youtube.com/c/https://www.youtube.com/#" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/#" height="40" width="40" /></a>
-        <a href="https://kaggle.com/ciniur" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ciniur" height="40" width="40" /></a>
+        <a href="https://kaggle.com/#" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ciniur" height="40" width="40" /></a>
 </p>
