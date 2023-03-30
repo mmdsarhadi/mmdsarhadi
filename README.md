@@ -24,8 +24,7 @@ I am also an open source enthusiast and maintainer. I learned a lot from the ope
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="330" height="150" />
-  
-- 💼 any freelance work? do reach, [email](mailto:mmdsarhadi@gmail.com) :)
+ 
 - 💬 ask me about anything, i am happy to, [help](mailto:mmdsarhadi@gmail.com) :)
 
 **languages and tools:**  
@@ -49,8 +48,8 @@ python       16 hrs 30 mins  █████████████████
 pygame       40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
 git          33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
 Bash         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-Groovy       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-SCSS         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+java         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+c++          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 ```
 <!--END_SECTION:waka-->
 <br />
