@@ -73,14 +73,14 @@ c++          7 mins          ▒░░░░░░░░░░░░░░░░
 Feel free contacting me via the following links:
 
 <div align="center">
-        <a href="https://www.linkedin.com/in/mohammad-hosein-ashoori-863a31175/">
-            <img src="https://img.icons8.com/color/50/000000/linkedin.png" width=20/>
+        <a href="https://www.linkedin.com/in/#/">
+            <img src="https://img.icons8.com/color/50/000000/linkedin.png" width=40/>
         </a>
         <a href="https://twitter.com/">
-            <img src="https://img.icons8.com/color/50/000000/twitter.png" width=12/> -->
-         <a href="https://cenaashoori.github.io/">
-            <img src="https://img.icons8.com/fluency/50/000000/resume-website.png" width=20/>
+            <img src="https://img.icons8.com/color/50/000000/twitter.png" width=32/> 
+         <a href="https://#.github.io/">
+            <img src="https://img.icons8.com/fluency/50/000000/resume-website.png" width=40/>
         </a>
-        <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc8lkrtn9wff4frctr04sxva" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc8lkrtn9wff4frctr04sxva" height="20" width="20" /></a>
-        <a href="https://kaggle.com/ciniur" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ciniur" height="20" width="20" /></a>
+        <a href="https://www.youtube.com/c/https://www.youtube.com/#" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/#" height="40" width="40" /></a>
+        <a href="https://kaggle.com/ciniur" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ciniur" height="40" width="40" /></a>
 </p>
