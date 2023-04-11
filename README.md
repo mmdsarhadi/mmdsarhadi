@@ -64,6 +64,12 @@ c++          7 mins          ▒░░░░░░░░░░░░░░░░
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+
+- #### Application Development & Frameworks & Libraries:
+  <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+
+
 - #### Partially familiar with (Elementary level):
   <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
 
@@ -71,6 +77,7 @@ c++          7 mins          ▒░░░░░░░░░░░░░░░░
 ## Contact Me
 
 Feel free contacting me via the following links:
+
 
 <div align="center">
         <a href="https://www.linkedin.com/in/#/">
