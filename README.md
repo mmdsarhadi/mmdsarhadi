@@ -16,8 +16,8 @@
 
 <br />
 
-Hi, I'm [Mohammad Sarhadi](https://www.mmdw.ir/), a passionate self-taught developer. My passion is in penetration and security
-I am also an open source enthusiast and maintainer.  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+Hi, I'm [Mohammad Sarhadi](https://www.mmdw.ir/)
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 
 
