@@ -49,9 +49,9 @@ c++          7 mins          ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 <br />
-<p align="center">
-  <h1 align="center"> Skills </h1>
-<p h2 align="center">
+
+ <h3 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"> Skills</h3>
+
 
 - #### Programming Languages:
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
