@@ -63,7 +63,8 @@ c++          7 mins          ▒░░░░░░░░░░░░░░░░
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   
-
+<a href=&quothttps://github.com/ghost1372&quot>
+<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api?username=ghost1372&show_icons=true&count_private=true&include_all_commits=true&quot /></a>
 
 ## Contact Me
 
