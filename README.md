@@ -67,18 +67,26 @@ c++          7 mins          ▒░░░░░░░░░░░░░░░░
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<a href="https://github.com/mmdsarhadi/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mmdsarhadi&show_icons=true&include_all_commits=true&theme=dark" alt="mmdsarhadi github stats" />
   <br />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mmdsarhadi&theme=react&hide_border=true"/>
 </a>
 <a href="https://github.com/mmdsarhadi/github-readme-stats">
   <img align
 
-    
+
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+<br>
 
+<div style="display: flex;">
+  <img style="width: 49.5%;" src="https://github-readme-streak-stats.herokuapp.com/?user=mmdsarhadi&theme=react&hide_border=true"/>
+  <img style="width: 49.5%;" src="https://github-readme-stats.vercel.app/api?username=mmdsarhadi&show_icons=true&theme=gotham"/>
+</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmdsarhadi&theme=gotham&layout=compact" alt="Top Languages" />
+
+
+<br>
 
 
 
